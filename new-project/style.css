@@ -1,0 +1,17 @@
+/* .myimg {
+  width: 600px;  
+}
+
+.mybtn {
+    background: #458FF6;
+    border: 0px solid;
+    color: white;
+} */
+
+
+@media screen and (max-width: 850px) {
+  .btn {
+    width: 360px;
+  }
+  
+}
